@@ -1,18 +1,32 @@
 # pokemon-react
 
-Fun project using React to explore Pokémon data.
+A fun project using React and Vite to explore and display Pokémon data in a simple, responsive interface.
 
----
+## 🔥 Features
 
-### Project Setup
+- Browse and view a list of Pokémon
+- Fetch data from the [PokéAPI](https://pokeapi.co/)
+- Clean UI built with React and CSS
+- Fast development with Vite + HMR
+- ESLint configured for clean code
 
-This project uses **React + Vite** with hot module reloading and ESLint support.
+## 📸 Preview
 
-Currently, two official plugins are available:
+![App Screenshot](screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> *(Add a real screenshot or screen recording here to show how your app looks!)*
 
-#### Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you're building a production-ready app, it's a good idea to use TypeScript with type-aware linting. Check out the [TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to get started.
+- **React** – Frontend framework
+- **Vite** – Lightning fast build tool
+- **CSS** – For styling
+- **PokéAPI** – Public API for Pokémon data
+
+## 🛠️ Getting Started
+
+1. Clone the repo
+
+```bash
+git clone https://github.com/Utsav377/pokemon-react.git
+cd pokemon-react
