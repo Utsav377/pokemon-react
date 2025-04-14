@@ -1,12 +1,18 @@
-# React + Vite
+# pokemon-react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fun project using React to explore Pokémon data.
+
+---
+
+### Project Setup
+
+This project uses **React + Vite** with hot module reloading and ESLint support.
 
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+#### Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you're building a production-ready app, it's a good idea to use TypeScript with type-aware linting. Check out the [TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to get started.
