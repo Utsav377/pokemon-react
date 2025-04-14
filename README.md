@@ -23,6 +23,11 @@ A fun project using React and Vite to explore and display Pokémon data in a sim
 - **CSS** – For styling
 - **PokéAPI** – Public API for Pokémon data
 
+## Live Demo
+
+Check out the live demo of the project here: [Pokemon React Demo](https://utsav377.github.io/pokemon-react/)
+
+
 ## 🛠️ Getting Started
 
 1. Clone the repo
